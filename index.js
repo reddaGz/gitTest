@@ -12,9 +12,6 @@ function mul(x,y){
 return x*y;
 }
 
-function decimal(x){
-Math.floor(x)
-}
 function decimalCeil(x){
 return Math.ceil(x)
 }
