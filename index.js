@@ -11,3 +11,7 @@ function div(x,y){
 function mul(x,y){
 return x*y;
 }
+
+function decimal(x){
+Math.floor(x)
+}
