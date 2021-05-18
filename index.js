@@ -18,3 +18,6 @@ return Math.ceil(x)
 function sequreRoot(x){
 return Math.sequreroot(x)
 }
+function num(){
+console.log(7)
+}
