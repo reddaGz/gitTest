@@ -18,3 +18,9 @@ return Math.ceil(x)
  function seque(x){
      return x*x;
  }
+function sequreRoot(x){
+return Math.sequreroot(x)
+}
+function num(){
+    console.log(7)
+}
