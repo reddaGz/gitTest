@@ -24,3 +24,7 @@ return Math.sequreroot(x)
 function num(){
     console.log(7)
 }
+function isEven(x){
+    return x%2===0;
+
+}
