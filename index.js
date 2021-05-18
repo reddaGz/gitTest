@@ -15,3 +15,6 @@ return x*y;
 function decimalCeil(x){
 return Math.ceil(x)
 }
+function sequreRoot(x){
+return Math.sequreroot(x)
+}
